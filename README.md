@@ -1,10 +1,7 @@
 
 #Stockbook
 ### jjd5870_cse5335_project2
-It is a web application that keeps track of users and their posts. A person can post as well as play a role of admin. The role of admin can also be limited to particular users with few changes in code.
-I has 3 pages. the first page is login page. The second page is for adding, updating, deleting and viewing all posts (stocks). 
-The third page is Site administration. It reccords the number of users, number of times they logged in and number of stocks. It is 
-also able to download all the data that it records according to need of user.
+It is a web application that keeps track of users and their posts. A person can post as well as play a role of admin. The role of admin can also be limited to particular users with few changes in code. It has 3 pages. the first page is login page. The second page is for adding, updating, deleting and viewing all posts (stocks). The third page is Site administration. It reccords the number of users, number of times they logged in and number of stocks. It is also able to download all the data that it records according to need of user. It shows 20 stocks per page.
  
 
 
@@ -60,3 +57,4 @@ $ git add .
 $ git commit -am "make it better"  
 $ git push heroku master  
 
+You might need to use command- heroku run rake db:migrate 
