@@ -31,10 +31,11 @@ It is very compact so changing the code or updating the application was easier t
 I have loaded several gem files such as  
 gem gmap4rails - It is used for google maps api  
 gem geocoder - It is used for google maps too but for conversion of cities to points and vice versa    
-gem rails_12factor - It is used to use all the features on heroku    
+gem rails_12factor - It is used to use all the features on heroku  
+gem rails_admin  
 
 ##Reference
-stuk.io videos on youtube were extremly helpful.
+stuk.io videos on youtube were extremly helpful.  
 Stackoverflow
 
 ##Steps on Ubuntu to deploy app
@@ -48,8 +49,8 @@ $ heroku login
 
 Clone the repository  
 Use Git to clone jjd5870-cse-5335's source code to your local machine.  
-$ heroku git:clone -a jjd5870-cse-5335  
-$ cd jjd5870-cse-5335  
+$ heroku git:clone -a jjd5870-cse-5335-2  
+$ cd jjd5870-cse-5335-2  
 
 Deploy your changes  
 Make some changes to the code you just cloned and deploy them to Heroku using Git.  
