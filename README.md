@@ -5,8 +5,8 @@ It is a web application that keeps track of users and their posts. A person can 
  
 
 
- A [link](https://jjd5870-cse5335-2.herokuapp.com/)
- It is advisable to run it on ubuntu/linux. The graphics in Windows might not work properly but the functionality is working.
+ A [link](https://jjd5870-cse5335-2.herokuapp.com/).
+ ###It is advisable to run it on ubuntu/linux. The graphics in Windows might not work properly but the functionality is working.
  One can sign up or use login details as: username: user7 password:123456
  
  
