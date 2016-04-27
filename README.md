@@ -9,7 +9,8 @@ also able to download all the data that it records according to need of user.
 
 
  A [link](https://jjd5870-cse5335-2.herokuapp.com/)
- ### One can sign up or use login details as: username: user7 password:123456
+ It is advisable to run it on ubuntu/linux. The graphics in Windows might not work properly but the functionality is working.
+ One can sign up or use login details as: username: user7 password:123456
  
  
 ##Server Framework
@@ -35,7 +36,7 @@ gem gmap4rails - It is used for google maps api
 gem geocoder - It is used for google maps too but for conversion of cities to points and vice versa    
 gem rails_12factor - It is used to use all the features on heroku    
 
-##Refernce
+##Reference
 stuk.io videos on youtube were extremly helpful.
 Stackoverflow
 
